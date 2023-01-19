@@ -2,7 +2,7 @@
 
 Public score 3rd 0.07214 | Private score 12th 0.07303
 
-주최 : 제주 테크노파크, 제주특별자치도
+주최 : 제주 테크노파크
 
 주관 : DACON
 
